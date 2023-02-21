@@ -1,4 +1,4 @@
-import axios from "axios";
+
 import style from "./App.module.css";
 import { useEffect, useState } from "react";
 
@@ -13,7 +13,7 @@ function App() {
         <button onClick={dec}>-</button>
       
   </div>
-  )
+  )   
 }
 
 export default App;

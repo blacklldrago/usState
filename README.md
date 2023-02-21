@@ -29,4 +29,6 @@ export default App;
 ## Вместо этого используйте useEffect. Функция, переданная в useEffect, будет запущена после того, как рендер будет зафиксирован на экране. Думайте об эффектах как о лазейке из чисто функционального мира React в мир императивов.
 ![alt text](./src/img/useEffect.png)
 
+# Rules to Remember
+## Don’t call Hooks inside loops, conditions, or nested functions. Instead, always use Hooks at the top level of your React function, before any early returns
 ![alt text](./src/img/thanks.jpg)
