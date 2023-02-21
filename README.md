@@ -22,4 +22,4 @@ export default App;
  
 # useState
 ## Первый хук, который мы изучим, это функция useState. Не беспокойтесь если этот пример будет поначалу неясен. Скоро мы разберёмся, как он работает.
-![alt text](./img/usestate.png)
+![alt text](./src/img/usestate.png)
